@@ -1,0 +1,37 @@
+.term {
+    margin: 5px;
+    text-align: center;
+    border: solid 4px burlywood;
+    border-radius: 15px;
+    background-color: lemonchiffon;
+    padding: 15px;
+}
+
+.definition {
+    display: none;
+    margin: 5px;
+    text-align: center;
+    border: solid 4px burlywood;
+    border-radius: 15px;
+    background-color: lemonchiffon;
+    padding: 15px;
+}
+
+button {
+    margin: 5px;
+    text-align: center;
+    border: solid 1px green;
+    border-radius: 15px;
+    background-color: rgb(83, 235, 83);
+    padding: 15px;
+     
+}
+
+button:hover {
+    transform: scale(1.1);
+}
+
+.buttons {
+    text-align: center;
+}
+
